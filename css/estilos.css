@@ -1,0 +1,82 @@
+
+style
+img {
+  border-radius: 60%;
+}
+
+
+ul {
+    align-self: center;
+text-align: left;
+
+}
+HR {align-items: start;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+h1 {
+        font-family: 'Roboto', sans-serif;
+        height: 30px;
+        text-align: center;
+        
+        
+        padding: 5px;
+        margin: 10px;
+       
+      }
+
+
+h2 {
+    font-family:fantasy;
+    font-weight: bold;
+    color:rgb(0, 0, 255);
+    text-align: center;
+    
+
+}
+
+h3 {
+
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    text-align: left;
+}
+
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color:red;
+    width: 300px;
+    text-align: center;
+}
+
+
+* {
+    box-sizing: border-box;
+    
+  }
+
+div.menu {background-color: aqua;
+
+    padding: 40%;
+    text-align: center;
+
+
+}
+
+div.main {
+
+    padding: 40%;
+    text-align: center;
+
+}
